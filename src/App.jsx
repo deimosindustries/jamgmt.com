@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <div className="w-full pointer-events-none">
-        <video className="w-full h-auto md:max-h-[80vmin] -translate-y-60" preload autoPlay playsInline muted>
+        <video className="w-full h-auto md:max-h-[80vmin] -translate-y-40" preload autoPlay playsInline muted>
           <source src="./jam-logo-square.mp4" type="video/mp4" />
           <source src="./jam-logo-square.webm" type="video/webm" />
         </video>
