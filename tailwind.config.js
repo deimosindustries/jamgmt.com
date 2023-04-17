@@ -13,8 +13,8 @@ export default {
         }
       },
       animation: {
-        'fade-in': 'fade 2s linear 2s both',
-        'fade-out': 'fade 2s linear both reverse',
+        'fade-in': 'fade 2s linear 3s both',
+        'fade-out': 'fade 2s linear 3s both reverse',
       }
     },
   },
